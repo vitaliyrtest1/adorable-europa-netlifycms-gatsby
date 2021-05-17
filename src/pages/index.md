@@ -244,7 +244,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: /images/oceanic-triceratops.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
